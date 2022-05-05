@@ -19,6 +19,13 @@
           src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
           width="100"
         />
+        <i class="fa-solid fa-house"></i>
+        <span class="material-icons">
+home
+</span>
+<span class="material-icons">
+login
+</span>
       </div>
 
       <v-spacer></v-spacer>
